@@ -6,5 +6,5 @@ This repo is about .........
 
 ## Table of Contents
 
-## Projects is execution
+## Projects in execution
 
