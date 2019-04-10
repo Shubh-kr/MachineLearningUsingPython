@@ -1,4 +1,7 @@
 # Customer Attrition
+<p align="center">
+   <img />
+</p>
 ![image.png](churn.png)<br><br>
 Customer __attrition__, also known as customer __churn__, customer __turnover__, or customer __defection__, is the __loss of clients or customers__.
 
