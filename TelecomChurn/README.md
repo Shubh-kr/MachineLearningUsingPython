@@ -6,7 +6,9 @@ Telephone service companies, Internet service providers, pay TV companies, insur
 
 Companies usually make a distinction between __voluntary__ churn and __involuntary__ churn. 
 - Voluntary churn occurs due to a decision by the customer to switch to another company or service provider, 
-- Involuntary churn occurs due to circumstances such as a customer's relocation to a long-term care facility, death, or the relocation to a distant location. 
+- Involuntary churn occurs due to circumstances such as a customer's relocation to a long-term care facility, death, or the relocation to a distant location.<br>
+
+
 In __most applications__, involuntary reasons for churn are excluded from the analytical models. <br> Analysts tend to concentrate on voluntary churn, because it typically occurs due to __factors of the company-customer relationship__ which companies control, such as how billing interactions are handled or how after-sales help is provided.
 
 Predictive analytics  use churn prediction models that __predict customer churn__ by assessing their __propensity__ of risk to churn. Since these models generate a __small prioritized list__ of potential defectors, they are __effective__ at focusing customer retention marketing programs on the subset of the customer base who are most vulnerable to churn.
