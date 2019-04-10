@@ -1,7 +1,3 @@
-<p align="center">
-   <img />
-</p>
-
 # Customer Attrition
 ![image.png](churn.png)<br><br>
 Customer __attrition__, also known as customer __churn__, customer __turnover__, or customer __defection__, is the __loss of clients or customers__.
@@ -29,3 +25,4 @@ Here in the dataset, each row represents a customer, each column contains custom
 - __Customer account information__ - How long they've been a customer, contract, payment method, paperless billing, monthly charges and total charges.
 - __Demographic info about Customers__- gender, age, range, and if they have partners and dependents.
 # Insights
+![image.png](download.png)
