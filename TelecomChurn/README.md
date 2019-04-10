@@ -1,5 +1,5 @@
 # Telecom Churn Analysis
-![image.png](/home/shubham/Documents/churn.png)
+![image.png](churn.png)
 # Paragraph use case description
 # Data overview
 # Insights
