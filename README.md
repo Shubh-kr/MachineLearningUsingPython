@@ -1,5 +1,5 @@
 # MachineLearningUsingPython
-![image.jpg](image/ml.jpg)<br><br>
+![image.png](image/banner.png)<br><br>
 Machine Learning is a latest __buzzword__ floating around. It desrves to, as it is one of the most interesting subfield of Computer Science.<br>
 __What does Machine Learning really means?__<br>
 Machine Learning is an application of artificail intelligence(AI) that provides systems the ability  to automatically learn and improve from experience without being explicitly programmed.<br>
