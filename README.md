@@ -30,7 +30,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
 - Credit card fraud is also and adjunt to __identity__ theft.
-- Building a robust model usiso that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
+- Building a robust model so that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
 
 
 <a id=section3></a>
