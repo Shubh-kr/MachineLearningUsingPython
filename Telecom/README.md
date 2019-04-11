@@ -1,5 +1,5 @@
 # Customer Attrition
-![image.png](churn.png)<br><br>
+![image.png]('https://raw.githubusercontent.com/Shubh-kr/MachineLearningUsingPython/master/Telecom/images/churn.png')<br><br>
 Customer __attrition__, also known as customer __churn__, customer __turnover__, or customer __defection__, is the __loss of clients or customers__.
 
 Telephone service companies, Internet service providers, pay TV companies, insurance firms, and alarm monitoring services, often use customer attrition analysis and customer attrition rates as one of their __key business metrics__  because the __cost of retaining an existing customer is far less than acquiring a new one__. Companies from these sectors often have __customer service__ branches which attempt to __win back defecting clients__, because recovered __long-term customers__ can be worth __much more__ to a company than __newly recruited clients__.
