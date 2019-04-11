@@ -29,18 +29,21 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Customer Segmentation using RFM Analysis](#section4)<br>
 
 ### Telecom Churn Prediction
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image.jpg](image/telecom.jpg)<br><br>
+- A churn with respect to the Telecom industry, is defined as the percentage of subscribers moving from a specific service ot a service provider to another in a period of time.
+- Research shows that the companies have an avergae churn of 1.9 to 2 percent month on month and annualized churn ranging from 10 to 60 percent.
+- An effort to build a model which helps in reducing the churn rate for a telecom company.
 
 
 ### Credit Fraud Detection
-![image.jpg](image/credit.jpg)<br><br>
+![image.jpg](image/fraud.jpg)<br><br>
 - Credit card fraud is a wide-ranging term for theft and fraud committed using or involving a payment card, such aas credit or debit card, as  fraudulent source of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain unautorized funds from an account.
 - Credit card fraud is also and adjunt to identity theft.
 - Building a robust model usiso that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
 
 ### Spam detection
-![image.jpg](image/spam.jpg)<br><br>
+![image.png](image/spam.png)<br><br>
 - This is a begineer's example of document classification task which involves classifying an email as spam or not spam mail.
 - Spam box in your Gmail account is the ebst example of this.
 
