@@ -24,8 +24,25 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ## Table of Contents
 - [Telecom Churn Prediction](#section1)<br>
-- [Credit Card Defaulters](#section2)<br>
+- [Credit Fraud Detection](#section2)<br>
 - [Spam Detection](#section3)<br>
+- [Customer Segmentation using RFM Analysis](#section4)<br>
+
+### Telecom Churn Prediction
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### Credit Fraud Detection
+![image.jpg](image/credit.jpg)<br><br>
+- Credit card fraud is a wide-ranging term for theft and fraud committed using or involving a payment card, such aas credit or debit card, as  fraudulent source of funds in a transaction. 
+- The purpose may be to obtain goods without paying, or to obtain unautorized funds from an account.
+- Credit card fraud is also and adjunt to identity theft.
+- Building a robust model usiso that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
+
+### Spam detection
+![image.jpg](image/spam.jpg)<br><br>
+- This is a begineer's example of document classification task which involves classifying an email as spam or not spam mail.
+- Spam box in your Gmail account is the ebst example of this.
 
 ## Projects in execution
 
