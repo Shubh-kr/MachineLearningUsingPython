@@ -1,9 +1,11 @@
 # RFM principle to cluster customers using K-means
+![image.png](images/segment.png)
 
 ## Introduction
 
 Who is your Customer? Sometime it is not very obvious or short to answer this. There are lots of ways to classify customers and divided them by groups. But since we have data, let's use data approach to answer this question.<br><br>
 When yu have data -- like a list of customers and what they bough -- and you need to create groups with similar characterestics using this data, we need a clustering approach.<br>
+![image.png](images/clusterin.png)
 - __Clustering__ is part of the unsupervised machine learning techniques.
 - It is unsupervised as the mahine has no previous information about how it should group the entities.
 - They try to create clusters with similar entities by analysinf how close they are one from another.
