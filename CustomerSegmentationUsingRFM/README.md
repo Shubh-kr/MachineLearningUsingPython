@@ -29,7 +29,7 @@ When yu have data -- like a list of customers and what they bough -- and you nee
     
 
 ## How it Works?
-![image.png](images/working.gif)
+![image.png](images/Working.gif)
 To perform RFM analysis, each customer is assigned a score for recency, frequency, and monetary value, and then a final RFM score is calculated.
 
 - Recency score is calculated based on the date of their most recent purchase. 
@@ -64,7 +64,7 @@ The primary limitation of RFM model is the absence of Length entity.
 
 ## LRFM Takes INitial RFM Model to Next Level
 Various studies have concluded that the addition of an extra variable to the initial RFM Model can magnify its predictability of customer behaviors.<br>
-![image.jpg](length.jpg)
+![image.jpg](images/length.jpg)
 
 Just an addition of customer relation length (L) to RFM Model results in the extended reliability and accuracy of customer segments. By adopting the traditional RFM Model, companies cannot distinguish between the long-term and short-term customers, which becomes possible with the LRFM Model.
 
@@ -73,8 +73,8 @@ The inclusion of Length Element (L)  to the RFM Model resolves the inability to 
 The objective of adapting and implementing any of RFM and LRFM Model is to build revenue generating customer segments. No doubt, LRFM Model is much more favorable than RFM Model to get the desired productivity.
 
 ## Data
-The dataset is taken from UCI repository.
-Visit the link to download the data - https://archive.ics.uci.edu/ml/datasets/Online+Retail
+The dataset is taken from UCI repository.<br>
+Visit the link to download the data - https://archive.ics.uci.edu/ml/datasets/Online+Retail<br>
 This data set is composed of 8 attributes and 541909 instances showing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail. <br>According to UCI, the company mainly sells unique all-occasion gifts and many customers of the company are wholesalers.
 
 ### Attributes Information
