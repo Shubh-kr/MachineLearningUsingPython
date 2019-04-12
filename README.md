@@ -16,6 +16,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Spam Detection](#section3)<br>
 - [Customer Segmentation using RFM Analysis](#section4)<br>
 
+___
 <a id=section1></a>
 ### Telecom Churn Prediction
 ![image.jpg](image/telecom.jpg)<br><br>
