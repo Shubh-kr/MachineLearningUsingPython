@@ -26,6 +26,7 @@ The main challenge when it comes to modeling fraud detection as a classification
 Imagine that you are a teacher. The school director gives you the task of generating a report with predictions for each of the students final year result: pass or fail. You're supposed to come up with these predictions by analyzing student data from previous year:__grades__, __absences__, __engagement__, together with the final result, the target variable -- which could be either __pass__ or __fail__. You must submit your report in some minutes.tudents have passed final
 
 The problem here is that you are a very good teacher. As a result, almost none ofyour past students has failed your classes. Let's say that 99% of your students have passed final year exams.
+![image.jpg](images/handleimbalancedata.jpg)
 
 What would you do?
 
