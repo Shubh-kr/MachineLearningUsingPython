@@ -33,3 +33,11 @@ Would this “model” be correct and fault proof regardless of characteristics 
 Certainly not. Perhaps you wouldn’t even need a teacher to do these predictions, as anyone could simply try guessing that the whole class would pass based on data from previous years, and still achieve a good accuracy rate. Bottomline is that this prediction would have no value. And one of the most important missions of a __Data Scientist__ is creating business value out of data.<br><br>
 We’ll take a look into a practical case of fraud detection and learn how to overcome the issue with imbalanced data.
 
+# Data
+![image.png](images/data.png)
+- The dataset contains transactions made by credit card in September 2013 by european cardholders.
+- Presents transaction that occured in two days, where we have __492 fruads__ out of __284,807 transactions__.
+- Dataset is highly __imbalanced__, with the positive calss (frauds) accounting for 0.172% of all transactions.
+
+It is important to note that due to confidentiality reasons, the data was aninymized -- variable names were renamed to V1, V2, V3 until V28.<br>
+Moreover, most of it was scaled, except for __Amount__ and __Class__ variables, the latter being our binary, target variable.
