@@ -45,5 +45,5 @@ It is important to note that due to confidentiality reasons, the data was aninym
 Moreover, most of it was scaled, except for __Amount__ and __Class__ variables, the latter being our binary, target variable.
 
 # EDA
-Imbalance Data
+Imbalance Data<br>
 ![image.png](images/imbalance.png)
