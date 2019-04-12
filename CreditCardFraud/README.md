@@ -46,4 +46,4 @@ Moreover, most of it was scaled, except for __Amount__ and __Class__ variables, 
 
 # EDA
 Imbalance Data
-![image.png](images/imbalance graph.png)
+![image.png](images/imbalance.png)
