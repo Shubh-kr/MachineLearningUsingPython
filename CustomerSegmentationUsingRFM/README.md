@@ -65,3 +65,21 @@ Just an addition of customer relation length (L) to RFM Model results in the ext
 The inclusion of Length Element (L)  to the RFM Model resolves the inability to properly analyze different product demands at different times. In order to identify the most loyal customers of a company, it is essential to consider the Length of customer relation.
 
 The objective of adapting and implementing any of RFM and LRFM Model is to build revenue generating customer segments. No doubt, LRFM Model is much more favorable than RFM Model to get the desired productivity.
+
+## Data
+The dataset is taken from UCI repository.
+Visit the link to download the data - https://archive.ics.uci.edu/ml/datasets/Online+Retail
+This data set is composed of 8 attributes and 541909 instances showing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based online retail. <br>According to UCI, the company mainly sells unique all-occasion gifts and many customers of the company are wholesalers.
+
+### Attributes Information
+- __InvoiceNo__: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation. 
+- __StockCode__: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. 
+- __Description__: Product (item) name. Nominal. 
+- __Quantity__: The quantities of each product (item) per transaction. Numeric.	
+- __InvoiceDate__: Invice Date and time. Numeric, the day and time when each transaction was generated. 
+- __UnitPrice__: Unit price. Numeric, Product price per unit in sterling. 
+- __CustomerID__: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer. 
+- __Country__: Country name. Nominal, the name of the country where each customer resides.
+
+
+
