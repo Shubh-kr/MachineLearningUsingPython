@@ -1,4 +1,5 @@
 # Fraud Detection
+![image.jpg](images/fraud-dection-banner-optimized.jpg)
 
 - Fraud Detection is a topic applicable to many industries including banking and financial sectors, insurance, government agencies and law enforcement, and more.
 - Fraud attemps have seen a drastic increase in recent years, making fraud detection more important than ever.
@@ -13,6 +14,7 @@ In addition to the implementation of chip card technology, companies have been i
 Would __Machine Learning and AI__ constitute great allies in the battle?
 
 # Classification Problems
+![image.png](images/Classification.png)
 In __Machine learning__, problems like fraud detection are usually framed as classification problems -- predictinf a discrete class label output given a data observation.<br>
 Talking about the credit card payment fraud detection, the classification problem involves creating models that have enough intelligence in order to properly classify transactions as either __legit__ or __fraudulent__, based on transaction details such as __amount__, __merchant__, __location__, __time__ and others.<br>
 
@@ -41,3 +43,7 @@ We’ll take a look into a practical case of fraud detection and learn how to ov
 
 It is important to note that due to confidentiality reasons, the data was aninymized -- variable names were renamed to V1, V2, V3 until V28.<br>
 Moreover, most of it was scaled, except for __Amount__ and __Class__ variables, the latter being our binary, target variable.
+
+# EDA
+Imbalance Data
+![image.png](images/imbalance graph.png)
