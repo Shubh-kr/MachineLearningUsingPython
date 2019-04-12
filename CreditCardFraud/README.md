@@ -47,3 +47,18 @@ Moreover, most of it was scaled, except for __Amount__ and __Class__ variables, 
 
 # EDA
 ![image.png](images/imbalance.png)
+
+There are many ways of dealing with imbalanced data. We will focus here on "UnderSampling" process.
+
+- For the model analysis we have used SVM to train and test the model.<br>
+![image.png](images/download.png)
+In this case we are gonna try to minimize the number of errors in our prediction results. Errors are on the anti-diagonal of the confusion matrix. But we can infer that being wrong about an actual fraud is far worse than being wrong about a non-fraud transaction.<br><br>
+
+That is why using the accuracy as only classification criterion could be considered unthoughtful. During the remaining part of this study our criterion will consider precision on the real fraud 4 times more important than the general accuracy. Even though the final tested result is accuracy.
+
+__Our criterion give a result of 0.9208987440186684__<br><br>
+__We have detected 183 frauds / 199 total frauds__.
+
+__So, the probability to detect a fraud is 0.9195979899497487__
+__The accuracy is : 0.9261017602943468__
+
