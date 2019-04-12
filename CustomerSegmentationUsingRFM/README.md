@@ -15,6 +15,7 @@ When yu have data -- like a list of customers and what they bough -- and you nee
 - It would be a waste of marketing spend if, for example, an ad campaign is targeted to all the thousands of your customers.
 - Such an untargeted marketing promotion is unlikely to have a high conversionr ate and may even hurt your brand value.
 - RFM Analysis is one such popular customer segmentation technique that can help retailers maximize the return on their marketing investments.<br>
+![image.png](images/RFM.png)
 - Under RFM analysis, each customer is scored based on three factors, namely __Recency__, __Frequency__ and __Monetary__ value.
   - __Recency__: 
     - The most important predictor of who is more likely to respond to an offer.
@@ -28,6 +29,7 @@ When yu have data -- like a list of customers and what they bough -- and you nee
     
 
 ## How it Works?
+![image.png](images/working.gif)
 To perform RFM analysis, each customer is assigned a score for recency, frequency, and monetary value, and then a final RFM score is calculated.
 
 - Recency score is calculated based on the date of their most recent purchase. 
@@ -45,7 +47,8 @@ To perform RFM analysis, each customer is assigned a score for recency, frequenc
 By Combining these three scores, a final RFM score is calculated. The customers with the highest RFM score are cosnidered to be the ones that are most likely to respond to their offers.
 
 ## Customer Segmentation
-RFM analysis can help retailers segment the customers and design offers and promotions based on their profile. Below are a few examples:
+RFM analysis can help retailers segment the customers and design offers and promotions based on their profile. Below are a few examples:<br>
+![images.jpg](images/segmentation2.jpg)
 
 - Customers with an overall high RFM score represent the best customers.
 - Customers who have a high overall RFM score but a frequency score of 1 are new customers. The company can provide special offers for these customers in order to increase their visits.
@@ -60,7 +63,8 @@ The primary limitation of RFM model is the absence of Length entity.
 2. The customer segmentation used in it. Most of the analysts usially split in customer values into 5 bands.
 
 ## LRFM Takes INitial RFM Model to Next Level
-Various studies have concluded that the addition of an extra variable to the initial RFM Model can magnify its predictability of customer behaviors.
+Various studies have concluded that the addition of an extra variable to the initial RFM Model can magnify its predictability of customer behaviors.<br>
+![image.jpg](length.jpg)
 
 Just an addition of customer relation length (L) to RFM Model results in the extended reliability and accuracy of customer segments. By adopting the traditional RFM Model, companies cannot distinguish between the long-term and short-term customers, which becomes possible with the LRFM Model.
 
