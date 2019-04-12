@@ -59,6 +59,6 @@ That is why using the accuracy as only classification criterion could be conside
 __Our criterion give a result of 0.9208987440186684__<br><br>
 __We have detected 183 frauds / 199 total frauds__.
 
-__So, the probability to detect a fraud is 0.9195979899497487__
+__So, the probability to detect a fraud is 0.9195979899497487__<br>
 __The accuracy is : 0.9261017602943468__
 
