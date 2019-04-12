@@ -30,6 +30,7 @@ When yu have data -- like a list of customers and what they bough -- and you nee
 
 ## How it Works?
 ![image.png](images/Working.gif)
+<br>
 To perform RFM analysis, each customer is assigned a score for recency, frequency, and monetary value, and then a final RFM score is calculated.
 
 - Recency score is calculated based on the date of their most recent purchase. 
