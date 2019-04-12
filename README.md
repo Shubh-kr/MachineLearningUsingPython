@@ -25,6 +25,7 @@ ___
 - An effort to build a model which helps in reducing the churn rate for a telecom company.
 
 
+___
 <a id=section2></a>
 ### Credit Fraud Detection
 ![image.jpg](image/fraud.jpg)<br><br>
@@ -34,6 +35,7 @@ ___
 - Building a robust model so that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
 
 
+___
 <a id=section3></a>
 ### Spam detection
 ![image.png](image/spam.png)<br><br>
@@ -41,6 +43,7 @@ ___
 - Spam box in your __Gmail account__ is the best example of this.
 
 
+___
 <a id=section4></a>
 ### Customer Segmentation using RFM Analysis
 ![image.jpg](image/rfm1.jpg)<br><br>
