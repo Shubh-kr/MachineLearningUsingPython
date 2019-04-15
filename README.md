@@ -43,7 +43,7 @@ ___
 ![image.png](image/spam.png)<br><br>
 - This is a beginner's example of __document classification__ task which involves __classifying__ an email as spam or not spam mail.
 - Spam box in your __Gmail account__ is the best example of this.
-- [Link for the Jupyter notebook](./SpamDetection/Span&Ham.ipynb)
+- [Link for the Jupyter notebook](./SpamDetection/Spam&Ham.ipynb)
 
 
 ___
