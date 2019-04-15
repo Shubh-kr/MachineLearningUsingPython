@@ -27,7 +27,7 @@ ___
 
 ___
 <a id=section2></a>
-### Credit Fraud Detection
+### [Credit Fraud Detection](./CreditCardFraud)
 ![image.jpg](image/fraud.jpg)<br><br>
 - Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
@@ -37,7 +37,7 @@ ___
 
 ___
 <a id=section3></a>
-### Spam detection
+### [Spam detection](./SpamDetection)
 ![image.png](image/spam.png)<br><br>
 - This is a beginner's example of __document classification__ task which involves __classifying__ an email as spam or not spam mail.
 - Spam box in your __Gmail account__ is the best example of this.
@@ -45,7 +45,7 @@ ___
 
 ___
 <a id=section4></a>
-### Customer Segmentation using RFM Analysis
+### [Customer Segmentation using RFM Analysis](./CustomerSegmentationUsingRFM)
 ![image.jpg](image/rfm1.jpg)<br><br>
 - Businesses that __lack__ the monetary aspect, like __viewership__, __readership__, or __surfing-oriented products__, could use __Engagement parameters__ instead of Monetary factors.
 - The Engagement parameter could be defined as a composite value based on metrics such as __bounce rate__, __visit duration__, __number of pages visted__, __time spent per page__ etc.
