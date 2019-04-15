@@ -23,6 +23,7 @@ ___
 - A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
 - Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
 - An effort to build a model which helps in reducing the churn rate for a telecom company.
+- [Link for the Jupyter notebook](./Telco_Churn.ipynb)
 
 
 ___
@@ -33,6 +34,7 @@ ___
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
 - Credit card fraud is also and adjunt to __identity__ theft.
 - Building a robust model so that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
+- [Link for the Jupyter notebook](./CreditFraud.ipynb)
 
 
 ___
@@ -41,6 +43,7 @@ ___
 ![image.png](image/spam.png)<br><br>
 - This is a beginner's example of __document classification__ task which involves __classifying__ an email as spam or not spam mail.
 - Spam box in your __Gmail account__ is the best example of this.
+- [Link for the Jupyter notebook](./Span&Ham.ipynb)
 
 
 ___
@@ -50,6 +53,7 @@ ___
 - Businesses that __lack__ the monetary aspect, like __viewership__, __readership__, or __surfing-oriented products__, could use __Engagement parameters__ instead of Monetary factors.
 - The Engagement parameter could be defined as a composite value based on metrics such as __bounce rate__, __visit duration__, __number of pages visted__, __time spent per page__ etc.
 - RFM stand for __Recency__, __Frequency__ and __Monetary__.
+- [Link for the Jupyter notebook](./CLustering.ipynb)
 
 ## Projects in execution
 
