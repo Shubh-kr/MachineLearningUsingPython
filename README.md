@@ -53,7 +53,7 @@ ___
 - Businesses that __lack__ the monetary aspect, like __viewership__, __readership__, or __surfing-oriented products__, could use __Engagement parameters__ instead of Monetary factors.
 - The Engagement parameter could be defined as a composite value based on metrics such as __bounce rate__, __visit duration__, __number of pages visted__, __time spent per page__ etc.
 - RFM stand for __Recency__, __Frequency__ and __Monetary__.
-- [Link for the Jupyter notebook](./CLustering.ipynb)
+- [Link for the Jupyter notebook](./CustomerSegmentationUsingRFM/CLustering.ipynb)
 
 ## Projects in execution
 
