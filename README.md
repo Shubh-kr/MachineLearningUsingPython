@@ -18,7 +18,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 ___
 <a id=section1></a>
-### Telecom Churn Prediction
+### Telecom Churn Prediction(./Telecom%20Churn%20Prediction)
 ![image.jpg](image/telecom.jpg)<br><br>
 - A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
 - Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
